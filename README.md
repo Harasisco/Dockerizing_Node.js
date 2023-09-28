@@ -11,7 +11,6 @@ Welcome to the Dockerizing a Node.js web app repository! In this project, we'll 
   - [Run the Docker Container](#run-the-docker-container)
 - [Accessing the Application](#accessing-the-application)
 - [Customization](#customization)
-- [Contributing](#contributing)
 
 ## Prerequisites
 
@@ -71,7 +70,3 @@ curl -i localhost:49160
 ## Customization
 
 Feel free to customize the Node.js web app and the Docker configuration to suit your needs. You can modify the source code in the ``` server.js ``` file and update the Dockerfile as necessary.
-
-## Contributing
-
-If you'd like to contribute to this project, please fork the repository and create a pull request. We welcome contributions from the community!
