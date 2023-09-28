@@ -17,7 +17,7 @@ Welcome to the Dockerizing a Node.js web app repository! In this project, we'll 
 Before you get started, make sure you have the following prerequisites installed on your local machine:
 
 - [Docker](https://www.docker.com/get-started)
-- Git (optional, for cloning the repository)
+- Git (for cloning the repository)
 
 ## Getting Started
 
