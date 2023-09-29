@@ -40,7 +40,7 @@ To build the Docker image for the Node.js web app, run the following command in 
 docker build . -t <your username>/node-web-app
 ```
 
-This command will create a Docker image named nodejs-web-app based on the instructions defined in the Dockerfile.
+This command will create a Docker image named \<your username>/node-web-app based on the instructions defined in the Dockerfile.
 
 Check the image using:
 
