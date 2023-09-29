@@ -25,7 +25,7 @@ Follow these steps to build and run the Node.js web app using Docker on your loc
 
 ### Clone the Repository
 
-If you haven't already, clone this repository to your local machine using Git:
+If you haven't already clone this repository to your local machine using Git then folow this two instractions:
 
 ```bash
 git clone https://github.com/Harasisco/Dockerizing_Node.js.git
